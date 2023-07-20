@@ -9,7 +9,7 @@
 * [5. Etapa Dos del Proyecto](#5-etapa-dos-del-proyecto)  
 ## 1. Preámbulo
 
-Al iniciar el proyecto distintas propuestas surgieron, pero de inmediato en el equipo supimos que realizar una red para emprendedoras era lo que se adecuaba con nosotras. La idea de permitir a las mujeres  emprendedoras ofrecer  productos y /o servicios y por ende crear una comunidad donde a la par conocieran los productos de otras mujeres,  es el objetivo de POWEMP. Accede al proyecto https://powemp-sn.vercel.app/
+Al iniciar el proyecto distintas propuestas surgieron, pero de inmediato en el equipo supimos que realizar una red para emprendedoras era lo que se adecuaba con nosotras. La idea de permitir a las mujeres  emprendedoras ofrecer  productos y /o servicios y por ende crear una comunidad donde a la par conocieran los productos de otras mujeres,  es el objetivo de POWEMP. Accede a la aplicacion https://powemp-sn.vercel.app/
 ![adem-ay-Tk9m_HP4rgQ-unsplash](/src/img/logoCircular.png)
 
 ## 2. Resumen del Proyecto
