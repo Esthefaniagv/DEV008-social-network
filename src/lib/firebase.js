@@ -64,6 +64,7 @@ export const iniciaSesionUsuario = (email, password) => {
 |--------------------------------------------------------------------------
 */
 export const registrarUsuario = (email, password) => {
+  console.log('real');
   return createUserWithEmailAndPassword(auth, email, password);
 };
 /*

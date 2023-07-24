@@ -81,10 +81,12 @@ export const register = (onNavigate) => {
     const validEmail = /^\w+([.-_+]?\w+)*@\w+([.-]?\w+)*(\.\w{2,10})+$/;
     if (validEmail.test(email.value)) {
       registrarUsuario(email.value.trim(), pass.value.trim()).then((response) => {
+        // console.log(response);
         if (response.user.email !== null) {
           onNavigate('/inicio');
         }
       }).catch((error) => {
+        // console.log(error);
         const errorCode = error.code;
         // const errorMessage = error.message;
         document.getElementById('idmsjerror').style.display = 'block';

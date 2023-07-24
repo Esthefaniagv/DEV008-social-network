@@ -442,7 +442,7 @@ hr {
   background: #F6BD01;
   height: 35px;
   width: 70px;
-  border: solid 2px #f6bd01;
+  /* border: solid 2px #f6bd01; */
   border-radius: 5px;
 }
 .content__closeBtn {
@@ -454,7 +454,7 @@ hr {
   background-color: transparent;
   color: #A2A3A8;
   border: 0;
-  font-weight: 600;
+  /* font-weight: 600; */
   cursor: pointer;
   transition: 0.15s ease;
 }
@@ -485,7 +485,6 @@ hr {
   align-items: center;
   color: rgb(255, 255, 255);
   font-weight: 100;
-  color: rgb(255, 255, 255);
 }
 
 .registerContainer__inputs {
@@ -620,7 +619,6 @@ hr {
   color: #B03449;
   border: 1px solid #ffb8b8;
   border-radius: 8px;
-  background-color: rgba(255, 56, 56, 0.05);
 }
 
 #idBotonUpdate {
@@ -992,9 +990,8 @@ hr {
     background: #F6BD01;
     height: 35px;
     width: 70px;
-    border: solid 2px #f6bd01;
     border-radius: 5px;
-    cursor: pointer;
+    /* cursor: pointer; */
   }
   .content__publishbtn__closeBtn {
     font-family: "Roboto", sans-serif;
@@ -1005,9 +1002,9 @@ hr {
     background-color: transparent;
     color: #A2A3A8;
     border: 0;
-    font-weight: 600;
+    /* font-weight: 600; */
     cursor: pointer;
-    transition: 0.15s ease;
+    /* transition: 0.15s ease; */
   }
   .closeModal {
     opacity: 0;
